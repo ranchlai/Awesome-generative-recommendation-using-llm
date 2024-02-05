@@ -5,8 +5,13 @@ Generative recommendation using large language models (LLMs) is a new paradigm i
 
 This repository contains a collection of papers, blog posts, and tutorials on generative recommendation using large language models. It aims to provide an overview of the current state of the art in this area and to highlight the potential of LLMs for recommendation systems.
 
-[![Awesome](llm_rec.png)](llm_rec.png)
+![Awesome](src/llm_rec.png)
 Source: [A Survey on Large Language Models for Recommendation](https://arxiv.org/pdf/2305.19860.pdf)
+
+
+![Awesome](src/rec_mind.png)
+Source: [RecMind: Large Language Model Powered Agent For Recommendation](https://arxiv.org/abs/2308.14296)
+
 
 ## Papers
 
@@ -42,4 +47,4 @@ https://blog.tensorflow.org/2023/06/augmenting-recommendation-systems-with.html 
 ## Tutorial
 
 RecSys 2023 Tutorial:Large Language Models for Recommendation | [web](https://llmrecsys.github.io/)
-![image](tutorial.png)
+![image](src/tutorial.png)
