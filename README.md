@@ -31,6 +31,8 @@ Recommender Systems in the Era of Large Language Models (LLMs) | [paper](https:/
 
 RecMind: Large Language Model Powered Agent For Recommendation | [paper](https://arxiv.org/abs/2308.14296)
 
+Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations | [paper](https://arxiv.org/abs/2308.16505)
+
 Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation | [paper](https://arxiv.org/abs/2311.09049)
 
 LLM-Based Aspect Augmentations for Recommendation Systems | [paper](https://openreview.net/pdf?id=bStpLVqv1H)
