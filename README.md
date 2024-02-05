@@ -33,6 +33,8 @@ RecMind: Large Language Model Powered Agent For Recommendation | [paper](https:/
 
 Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations | [paper](https://arxiv.org/abs/2308.16505)
 
+Large Language Models for Generative Recommendation: A Survey and Visionary Discussions | [paper](https://arxiv.org/abs/2309.01157)
+
 Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation | [paper](https://arxiv.org/abs/2311.09049)
 
 LLM-Based Aspect Augmentations for Recommendation Systems | [paper](https://openreview.net/pdf?id=bStpLVqv1H)
@@ -50,3 +52,4 @@ https://blog.tensorflow.org/2023/06/augmenting-recommendation-systems-with.html 
 
 RecSys 2023 Tutorial:Large Language Models for Recommendation | [web](https://llmrecsys.github.io/)
 ![image](src/tutorial.png)
+ Source: [Large Language Models for Generative Recommendation: A Survey and Visionary Discussions](https://arxiv.org/abs/2309.01157)
