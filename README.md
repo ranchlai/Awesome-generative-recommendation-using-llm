@@ -12,6 +12,8 @@ Source: [A Survey on Large Language Models for Recommendation](https://arxiv.org
 ![Awesome](src/rec_mind.png)
 Source: [RecMind: Large Language Model Powered Agent For Recommendation](https://arxiv.org/abs/2308.14296)
 
+![Awesome](src/three_paradigms.png)
+Source: [A Survey on Large Language Models for Recommendation](https://arxiv.org/pdf/2305.19860.pdf)
 
 ## Papers
 
