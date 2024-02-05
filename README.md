@@ -14,21 +14,23 @@ Uncovering ChatGPT's Capabilities in Recommender Systems. [paper](https://arxiv.
 
 A Survey on Large Language Models for Recommendation [paper](https://arxiv.org/pdf/2305.19860.pdf)
 
-PALR: Personalization Aware LLMs for Recommendation [paper](https://arxiv.org/abs/2305.07622)
-
-Unlocking the Potential of Large Language Models for Explainable Recommendations | [paper](https://arxiv.org/abs/2312.15661)
-
-RecMind: Large Language Model Powered Agent For Recommendation | [paper](https://arxiv.org/abs/2308.14296)
-
-Recommender Systems in the Era of Large Language Models (LLMs) | [paper](https://arxiv.org/abs/2307.02046)
-
-Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation | [paper](https://arxiv.org/abs/2311.09049)
+Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction ｜ [paper](https://arxiv.org/pdf/2305.06474.pdf)
 
 Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach | [paper](https://arxiv.org/abs/2305.07001)
 
-LLM-Based Aspect Augmentations for Recommendation Systems | [paper](https://openreview.net/pdf?id=bStpLVqv1H)
+PALR: Personalization Aware LLMs for Recommendation [paper](https://arxiv.org/abs/2305.07622)
 
 LLM-Rec: Personalized Recommendation via Prompting Large Language Models | [paper](https://arxiv.org/abs/2307.15780)
+
+Recommender Systems in the Era of Large Language Models (LLMs) | [paper](https://arxiv.org/abs/2307.02046)
+
+RecMind: Large Language Model Powered Agent For Recommendation | [paper](https://arxiv.org/abs/2308.14296)
+
+Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation | [paper](https://arxiv.org/abs/2311.09049)
+
+LLM-Based Aspect Augmentations for Recommendation Systems | [paper](https://openreview.net/pdf?id=bStpLVqv1H)
+
+Unlocking the Potential of Large Language Models for Explainable Recommendations | [paper](https://arxiv.org/abs/2312.15661)
 
 ## Blog Posts
 
